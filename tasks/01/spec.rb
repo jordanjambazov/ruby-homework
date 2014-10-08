@@ -1,4 +1,4 @@
-describe 'expect(series' do
+describe 'series' do
   it 'handles fibonacci expect(series' do
     expect(series('fibonacci', 1)).to eq 1
     expect(series('fibonacci', 20)).to eq 6765
