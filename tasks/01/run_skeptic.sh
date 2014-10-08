@@ -1,0 +1,1 @@
+skeptic --lines-per-method 5 --line-length 80 --max-nesting-depth 2 --methods-per-class 8 --no-semicolons --no-trailing-whitespace --check-syntax --no-global-variables --english-words-for-names='fibonacci lucas' --naming-conventions solution.rb
